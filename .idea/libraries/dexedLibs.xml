@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/ftp4j-1.7.2-7f631daea44f427f1d7eec2477f1e8af.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-b664c3640eda50269bf49d63b25ed9d2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/poi-scratchpad-3.7-20101029-18095df2a075086ee16e4a23c162173c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-c83a2016342b48b294f2768f2f9f02fb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/baidumapapi-8ff9a0538116ef0c4f07b0d3dfd9edd9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/commons-net-3.0.1-4f83fc6a8e68a1c9fc4a644269044290.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/jxl-ddbc6a1f8e5464c381b11910fb8659d5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/core-50b03d795e73f19722740c1b753798e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/poi-3.7-20101029-88348e70d2689bb74488f5838e22e4b8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/pinyin4j-2.5.0-6d45c3c659e3f0b811ab47f5fb262ddd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
